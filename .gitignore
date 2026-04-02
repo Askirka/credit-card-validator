@@ -3,8 +3,7 @@
 *.dll
 
 # Папки IDE
-../.idea/
-.vscode/
+.idea/
 
 # Временные файлы
 *.tmp
